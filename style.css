@@ -2,7 +2,10 @@
 td {
     border: 1px solid #333;
     width:800;
-    padding:8% 1%;
+}
+
+input{
+	padding:10% 20%;
 }
 
 thead,
