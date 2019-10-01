@@ -1,0 +1,12 @@
+
+td {
+    border: 1px solid #333;
+    width:800;
+    padding:8% 1%;
+}
+
+thead,
+{
+    background-color: #333;
+    color: #fff;
+}
